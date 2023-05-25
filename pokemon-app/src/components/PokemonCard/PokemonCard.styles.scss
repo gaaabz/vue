@@ -1,0 +1,7 @@
+.pokemon {
+    @apply p-2 rounded-2xl;
+
+    &__head {
+        @apply flex justify-between items-center;
+    }
+}
